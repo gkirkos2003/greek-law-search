@@ -1,0 +1,506 @@
+{
+ "k": 5,
+ "ondemand": 200,
+ "vectors_stored": 1027807,
+ "summary": {
+  "all": {
+   "bm25": {
+    "n": 12,
+    "hit@5": 0.25,
+    "mrr": 0.188,
+    "hit@10": 0.25,
+    "article_hit@5": 0.0
+   },
+   "hybrid": {
+    "n": 12,
+    "hit@5": 0.333,
+    "mrr": 0.292,
+    "hit@10": 0.333,
+    "article_hit@5": 0.0
+   }
+  },
+  "greek": {
+   "bm25": null,
+   "hybrid": null
+  },
+  "english": {
+   "bm25": {
+    "n": 12,
+    "hit@5": 0.25,
+    "mrr": 0.188,
+    "hit@10": 0.25,
+    "article_hit@5": 0.0
+   },
+   "hybrid": {
+    "n": 12,
+    "hit@5": 0.333,
+    "mrr": 0.292,
+    "hit@10": 0.333,
+    "article_hit@5": 0.0
+   }
+  },
+  "areios_pagos": {
+   "bm25": {
+    "n": 2,
+    "hit@5": 0.0,
+    "mrr": 0.0,
+    "hit@10": 0.0,
+    "article_hit@5": null
+   },
+   "hybrid": {
+    "n": 2,
+    "hit@5": 0.0,
+    "mrr": 0.0,
+    "hit@10": 0.0,
+    "article_hit@5": null
+   }
+  },
+  "elsyn": {
+   "bm25": {
+    "n": 2,
+    "hit@5": 0.0,
+    "mrr": 0.0,
+    "hit@10": 0.0,
+    "article_hit@5": null
+   },
+   "hybrid": {
+    "n": 2,
+    "hit@5": 0.0,
+    "mrr": 0.0,
+    "hit@10": 0.0,
+    "article_hit@5": null
+   }
+  },
+  "fek_a": {
+   "bm25": {
+    "n": 4,
+    "hit@5": 0.25,
+    "mrr": 0.25,
+    "hit@10": 0.25,
+    "article_hit@5": 0.0
+   },
+   "hybrid": {
+    "n": 4,
+    "hit@5": 0.25,
+    "mrr": 0.25,
+    "hit@10": 0.25,
+    "article_hit@5": 0.0
+   }
+  },
+  "nsk": {
+   "bm25": {
+    "n": 4,
+    "hit@5": 0.5,
+    "mrr": 0.312,
+    "hit@10": 0.5,
+    "article_hit@5": null
+   },
+   "hybrid": {
+    "n": 4,
+    "hit@5": 0.75,
+    "mrr": 0.625,
+    "hit@10": 0.75,
+    "article_hit@5": null
+   }
+  }
+ },
+ "rows": [
+  {
+   "id": "h01",
+   "lang": "en",
+   "source": "fek_a",
+   "has_citation": false,
+   "question": "What is the minimum share capital for setting up a Greek société anonyme (AE), and does it have to be fully paid in at incorporation?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 0.8,
+    "top": [
+     "ΦΕΚ Β΄ 1599/24.12.2002 | Αριθμ. 222440 Β. 2543 — μέρος 3/3",
+     "ΦΕΚ Α΄ 178/14.07.2005 | ν. 3371/2005 — άρθρο 47 §1",
+     "ΦΕΚ Β΄ 1197/16.09.2002 | πράξη (8) — μέρος 2/2",
+     "ΦΕΚ Α΄ 210/02.11.2004 | ν. 3283/2004 — άρθρο 5 §4–5",
+     "ΦΕΚ Β΄ 1197/16.09.2002 | πράξη (8) — μέρος 1/2"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 33.68,
+    "top": [
+     "ΦΕΚ Α΄ 14/30.01.2018 | ν. 4514/2018 — άρθρο 5 §7",
+     "ΦΕΚ Α΄ 178/14.07.2005 | ν. 3371/2005 — άρθρο 47 §1",
+     "ΦΕΚ Α΄ 54/20.03.2002 | ν. 2992/2002 — άρθρο 3 §2–4",
+     "ΦΕΚ Α΄ 210/02.11.2004 | ν. 3283/2004 — άρθρο 5 §4–5",
+     "ΦΕΚ Α΄ 90/30.04.1999 | ν. 2714/1999 — άρθρο πρώτο §6"
+    ]
+   }
+  },
+  {
+   "id": "h02",
+   "lang": "en",
+   "source": "fek_a",
+   "has_citation": false,
+   "question": "Under the Code of Administrative Procedure as first ratified in 1999, how long does a public service have to answer a citizen's application when no special deadline applies?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 0.92,
+    "top": [
+     "ΦΕΚ Α΄ 291/24.12.1999 | ν. 2776/1999 — άρθρο 68",
+     "ΦΕΚ Α΄ 97/17.05.1999 | ν. 2717/1999 — άρθρο 280",
+     "ΦΕΚ Α΄ 97/17.05.1999 | ν. 2717/1999 — άρθρο 226",
+     "ΦΕΚ Α΄ 121/11.07.2025 | π.δ. 62/2025 — άρθρο 90 §3",
+     "ΦΕΚ Α΄ 291/24.12.1999 | ν. 2776/1999 — άρθρο 74 §4"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 37.19,
+    "top": [
+     "ΦΕΚ Α΄ 291/24.12.1999 | ν. 2776/1999 — άρθρο 68",
+     "ΦΕΚ Α΄ 97/17.05.1999 | ν. 2717/1999 — άρθρο 69 (μέρος 1/3)",
+     "ΦΕΚ Α΄ 97/17.05.1999 | ν. 2717/1999 — άρθρο 247",
+     "ΦΕΚ Α΄ 225/27.10.1999 | ν. 2746/1999 — άρθρο πρώτο §3",
+     "ΦΕΚ Α΄ 90/30.04.1999 | ν. 2714/1999 — άρθρο πρώτο §6"
+    ]
+   }
+  },
+  {
+   "id": "h03",
+   "lang": "en",
+   "source": "fek_a",
+   "has_citation": false,
+   "question": "Can an administrative act be enforced if it had to be posted online on the Diavgeia transparency site but never was?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 0.25,
+    "top": [
+     "ΦΕΚ Β΄ 4310/11.12.2017 | Αριθμ. οικ. 2/88295/ΔΛΔ — μέρος 109/262",
+     "ΦΕΚ Β΄ 4310/11.12.2017 | Αριθμ. οικ. 2/88295/ΔΛΔ — μέρος 111/262",
+     "ΦΕΚ Α΄ 169/27.09.2010 | π.δ. 94/2010 — άρθρο 1",
+     "ΦΕΚ Α΄ 169/27.09.2010 | π.δ. 95/2010 — άρθρο 1 (μέρος 3/7)",
+     "ΦΕΚ Β΄ 2831/07.11.2013 | Αριθμ. 84294 — μέρος 4/5"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 36.26,
+    "top": [
+     "ΦΕΚ Α΄ 169/27.09.2010 | π.δ. 95/2010 — άρθρο 1 (μέρος 3/7)",
+     "ΦΕΚ Α΄ 148/23.06.2005 | ν. 3352/2005 — άρθρο 8 §5",
+     "ΦΕΚ Α΄ 148/23.06.2005 | ν. 3352/2005 — άρθρο 8 §5",
+     "ΦΕΚ Α΄ 169/27.09.2010 | π.δ. 94/2010 — άρθρο 1",
+     "ΦΕΚ Α΄ 158/20.09.2010 | ν. 3875/2010 — άρθρο πρώτο (μέρος 42/275)"
+    ]
+   }
+  },
+  {
+   "id": "h04",
+   "lang": "en",
+   "source": "fek_a",
+   "has_citation": false,
+   "question": "How did the 1969 forestry legislation define a 'forest' in legal terms?",
+   "bm25": {
+    "doc_rank": 1,
+    "art_rank": null,
+    "doc_rank10": 1,
+    "s": 0.45,
+    "top": [
+     "ΦΕΚ Α΄ 7/18.01.1969 | ν.δ. 86/1969 — άρθρο 163",
+     "ΦΕΚ Α΄ 292/31.12.1969 | β.δ. 908/1969 — αρχή φύλλου",
+     "ΦΕΚ Α΄ 1/07.01.1969 | ν.δ. 76/1969 — άρθρο 18",
+     "ΦΕΚ Β΄ 1115/23.07.2004 | Αριθμ. 13519 — μέρος 19/31",
+     "ΦΕΚ Β΄ 1172/26.06.2008 | Αριθμ. οικ: 6413 — μέρος 8/25"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": 1,
+    "art_rank": null,
+    "doc_rank10": 1,
+    "s": 33.7,
+    "top": [
+     "ΦΕΚ Α΄ 7/18.01.1969 | ν.δ. 86/1969 — άρθρο 163",
+     "ΦΕΚ Α΄ 7/18.01.1969 | ν.δ. 86/1969 — άρθρο 33",
+     "ΦΕΚ Α΄ 156/10.10.2019 | ν. 4631/2019 — άρθρο πρώτο §13",
+     "ΦΕΚ Α΄ 292/31.12.1969 | β.δ. 908/1969 — αρχή φύλλου",
+     "ΦΕΚ Α΄ 1/07.01.1969 | ν.δ. 76/1969 — άρθρο 18"
+    ]
+   }
+  },
+  {
+   "id": "h05",
+   "lang": "en",
+   "source": "nsk",
+   "has_citation": false,
+   "question": "A shop became unusable after the September 1999 Athens earthquake. Does the commercial tenant owe rent for the period it could not use the premises?",
+   "bm25": {
+    "doc_rank": 4,
+    "art_rank": null,
+    "doc_rank10": 4,
+    "s": 1.08,
+    "top": [
+     "ΑΠ 1298/2018 (Α1΄ Πολ.) | § 18",
+     "ΑΠ 104/2014 (Δ΄ Πολ.) | § 4",
+     "ΑΠ 1213/2025 (Α2΄ Πολ.) | § 11",
+     "ΓνωμΝΣΚ 199/2000 | περίληψη",
+     "ΑΠ 597/2010 (Ε΄ Ποιν.) | § 2"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": 2,
+    "art_rank": null,
+    "doc_rank10": 2,
+    "s": 35.04,
+    "top": [
+     "ΦΕΚ Α΄ 130/25.06.1999 | ν. 2730/1999 — άρθρο 12 §2–4",
+     "ΓνωμΝΣΚ 199/2000 | περίληψη",
+     "ΑΠ 1298/2018 (Α1΄ Πολ.) | § 18",
+     "ΑΠ 879/2006 (Δ΄ Πολ.) | Ι. § 2",
+     "ΦΕΚ Α΄ 84/15.03.2000 | ν. 2819/2000 — άρθρο 4 §6"
+    ]
+   }
+  },
+  {
+   "id": "h06",
+   "lang": "en",
+   "source": "nsk",
+   "has_citation": false,
+   "question": "Can the Mufti perform the marriage of two foreign Muslims who do not live in his district?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 0.12,
+    "top": [
+     "ΓνωμΝΣΚ 285/2003 | περίληψη",
+     "ΓνωμΝΣΚ 120/1974 | περίληψη",
+     "ΓνωμΝΣΚ 446/1998 | περίληψη",
+     "ΓνωμΝΣΚ 436/1989 | περίληψη",
+     "ΓνωμΝΣΚ 666/2000 | περίληψη"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": 1,
+    "art_rank": null,
+    "doc_rank10": 1,
+    "s": 13.72,
+    "top": [
+     "ΓνωμΝΣΚ 347/2003 | περίληψη",
+     "ΓνωμΝΣΚ 436/1989 | περίληψη",
+     "ΓνωμΝΣΚ 285/2003 | περίληψη",
+     "ΓνωμΝΣΚ 520/2008 | περίληψη",
+     "ΦΕΚ Α΄ 145/03.07.1998 | π.δ. 195/1998 — άρθρο 1 (μέρος 1/5)"
+    ]
+   }
+  },
+  {
+   "id": "h07",
+   "lang": "en",
+   "source": "nsk",
+   "has_citation": false,
+   "question": "A Greek citizen had a religious wedding in a country that does not recognise religious marriage. Does the marriage exist under Greek law?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 0.17,
+    "top": [
+     "ΓνωμΝΣΚ 285/2003 | περίληψη",
+     "ΓνωμΝΣΚ 120/1974 | περίληψη",
+     "ΓνωμΝΣΚ 446/1998 | περίληψη",
+     "ΓνωμΝΣΚ 436/1989 | περίληψη",
+     "ΓνωμΝΣΚ 666/2000 | περίληψη"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 14.42,
+    "top": [
+     "ΓνωμΝΣΚ 567/1997 | περίληψη",
+     "ΓνωμΝΣΚ 919/1970 | περίληψη",
+     "Γνωμ. ΕισΑΠ 14/1989 | κείμενο",
+     "ΓνωμΝΣΚ 520/2008 | περίληψη",
+     "ΓνωμΝΣΚ 120/1974 | κείμενο 5/6"
+    ]
+   }
+  },
+  {
+   "id": "h08",
+   "lang": "en",
+   "source": "nsk",
+   "has_citation": false,
+   "question": "Can a university student or someone doing military service be classified as a professional farmer? What about an OGA pensioner with a disability?",
+   "bm25": {
+    "doc_rank": 1,
+    "art_rank": null,
+    "doc_rank10": 1,
+    "s": 1.07,
+    "top": [
+     "ΓνωμΝΣΚ 157/2015 | περίληψη",
+     "ΦΕΚ Β΄ 1137/03.09.2001 | Αριθμ. 390889/4973 — άρθρο 4 §1",
+     "ΓνωμΝΣΚ 530/2011 | περίληψη",
+     "ΦΕΚ Β΄ 538/05.05.2003 | Αριθμ. 233746/3996 — άρθρο 5",
+     "ΦΕΚ Β΄ 3706/29.08.2018 | Αριθμ. 15868/18/ΓΠ — άρθρο 4 §2"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": 1,
+    "art_rank": null,
+    "doc_rank10": 1,
+    "s": 31.85,
+    "top": [
+     "ΓνωμΝΣΚ 157/2015 | περίληψη",
+     "ΦΕΚ Α΄ 159/10.07.1998 | ν. 2634/1998 — άρθρο 1Χ §8",
+     "ΦΕΚ Α΄ 76/16.05.1997 | ν. 2485/1997 — άρθρο 17 §1",
+     "ΦΕΚ Α΄ 116/11.06.1997 | π.δ. 132/1997 — άρθρο 1 §19",
+     "ΦΕΚ Α΄ 76/16.05.1997 | ν. 2485/1997 — άρθρο 17 §1–4"
+    ]
+   }
+  },
+  {
+   "id": "h09",
+   "lang": "en",
+   "source": "areios_pagos",
+   "has_citation": false,
+   "question": "A skier was killed at a ski resort after leaving the slope and hitting a rock. Did the Supreme Court overturn the acquittal of the resort managers?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 0.35,
+    "top": [
+     "ΑΠ 1527/2010 (ΣΤ΄ Ποιν.) | VIII. σκέψη 4",
+     "ΑΠ 285/2015 (Ζ΄ Ποιν.) | § 3",
+     "ΑΠ 467/2013 (ΣΤ΄ Ποιν.) | περίληψη",
+     "ΑΠ 1527/2010 (ΣΤ΄ Ποιν.) | IV. § 11",
+     "ΑΠ 285/2015 (Ζ΄ Ποιν.) | § 8"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 35.14,
+    "top": [
+     "ΑΠ 1527/2010 (ΣΤ΄ Ποιν.) | VIII. σκέψη 4",
+     "ΓνωμΝΣΚ 695/1959 | κείμενο 3/3",
+     "ΑΠ 285/2015 (Ζ΄ Ποιν.) | § 3",
+     "ΓνωμΝΣΚ 851/1971 | κείμενο 6/8",
+     "ΓνωμΝΣΚ 851/1962 | κείμενο 4/4"
+    ]
+   }
+  },
+  {
+   "id": "h10",
+   "lang": "en",
+   "source": "areios_pagos",
+   "has_citation": false,
+   "question": "Girls drowned in the swimming pool of a children's summer camp. Did the Supreme Court uphold the conviction of those responsible for manslaughter by negligence?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 0.46,
+    "top": [
+     "ΑΠ 681/2015 (Ζ΄ Ποιν.) | περίληψη",
+     "ΑΠ 1141/2010 (ΣΤ΄ Ποιν.) | περίληψη",
+     "ΑΠ 250/2010 (ΣΤ΄ Ποιν.) | περίληψη",
+     "ΑΠ 1527/2010 (ΣΤ΄ Ποιν.) | ΙΙΙ. § 9",
+     "ΑΠ 174/2015 (Ζ΄ Ποιν.) | περίληψη"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 39.14,
+    "top": [
+     "ΑΠ 681/2015 (Ζ΄ Ποιν.) | § 4",
+     "ΑΠ 1609/2009 (Α΄ Ποιν.) | § 1-2",
+     "ΑΠ 1527/2010 (ΣΤ΄ Ποιν.) | ΙΙΙ. § 9",
+     "ΑΠ 1527/2010 (ΣΤ΄ Ποιν.) | ΙΙ. σκέψη 4",
+     "ΑΠ 1709/2010 (ΣΤ΄ Ποιν.) | § 3"
+    ]
+   }
+  },
+  {
+   "id": "h11",
+   "lang": "en",
+   "source": "elsyn",
+   "has_citation": false,
+   "question": "A mayor was surcharged for ordering payment of lifeguards for the municipal beaches in summer 2004 despite the treasurer's objections. What did the Court of Audit plenary finally decide?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 1.79,
+    "top": [
+     "ΕλΣυν Πράξη 68/2011 (I Τμήμα) | § 1-2",
+     "ΕλΣυν Πράξη 671/2004 (Β΄ Κλιμάκιο) | ΙV. § 5",
+     "ΕλΣυν Πράξη 851/2004 (Β΄ Κλιμάκιο) | ΙΙΙ. § 4",
+     "ΕλΣυν Πρακτ. ΣΥΝ.07-ΓΕΝ-Η/2004 (Β΄ Κλιμάκιο) | εισαγωγή 10/12",
+     "ΕλΣυν Πρακτ. ΣΥΝ.13-ΓΕΝ-ΙΒ/2004 (Β΄ Κλιμάκιο) | σκέψη 1"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 37.91,
+    "top": [
+     "ΕλΣυν Πρακτ. ΣΥΝ.13-ΓΕΝ-Ζ/2004 (Β΄ Κλιμάκιο) | III. § 5",
+     "ΕλΣυν Πρακτ. ΣΥΝ.13-ΓΕΝ-Γ/2004 (Β΄ Κλιμάκιο) | III. § 5",
+     "ΕλΣυν Πρακτ. ΣΥΝ.07-ΓΕΝ-Ζ/2004 (Β΄ Κλιμάκιο) | εισαγωγή 9/11",
+     "ΕλΣυν Πρακτ. ΣΥΝ.13-ΓΕΝ-ΙΒ/2004 (Β΄ Κλιμάκιο) | σκέψη 1",
+     "ΕλΣυν Πρακτ. ΣΥΝ.06-ΓΕΝ-Ζ/2004 (Β΄ Κλιμάκιο) | εισαγωγή 9/11"
+    ]
+   }
+  },
+  {
+   "id": "h12",
+   "lang": "en",
+   "source": "elsyn",
+   "has_citation": false,
+   "question": "Is it a lawful expense for a municipal welfare company to buy tablets as gifts for the children attending its creative-activity centres (KDAP)?",
+   "bm25": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 1.36,
+    "top": [
+     "ΦΕΚ Β΄ 1565/08.05.2018 | Αριθμ. 5104 — άρθρο 2 §26",
+     "ΦΕΚ Β΄ 5879/31.12.2018 | Αριθμ. 16775 — άρθρο 2 §26",
+     "ΦΕΚ Β΄ 2238/02.08.2012 | Αριθμ. 6420/142280 — άρθρο 3 (μέρος 5/9)",
+     "ΑΠ 1218/2006 (Ζ΄ Πολ.) | Ι. § 2",
+     "ΦΕΚ Β΄ 207/01.03.2010 | Αριθμ. οικ. 4086/555 — μέρος 2/5"
+    ]
+   },
+   "hybrid": {
+    "doc_rank": null,
+    "art_rank": null,
+    "doc_rank10": null,
+    "s": 37.88,
+    "top": [
+     "ΕλΣυν Πράξη 43/2010 (VII Τμήμα) | ΙΙΙ. § 4",
+     "ΦΕΚ Α΄ 139/27.06.1997 | ν. 2513/1997 — άρθρο πρώτο (μέρος 163/329)",
+     "ΓνωμΝΣΚ 849/1963 | κείμενο 3/5",
+     "ΦΕΚ Α΄ 139/27.06.1997 | ν. 2513/1997 — άρθρο πρώτο (μέρος 128/329)",
+     "ΑΠ 1218/2006 (Ζ΄ Πολ.) | Ι. § 2"
+    ]
+   }
+  }
+ ],
+ "when": "2026-10-22 00:42"
+}
